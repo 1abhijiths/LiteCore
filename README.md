@@ -1,6 +1,6 @@
 # LiteCore – Low-Latency Java HTTP Server with React E-Commerce Frontend
 
-LiteCore is a lightweight, low-latency Java HTTP server core built from scratch without heavy frameworks such as Spring or Netty.  
+LiteCore is a lightweight, low-latency Java HTTP server core built from scratch without heavy frameworks such as Spring.  
 The project is designed to demonstrate how modern backend frameworks work internally, with a strong focus on performance, concurrency, and system-level understanding.
 
 To simulate real-world usage, LiteCore includes a React-based e-commerce frontend that communicates directly with the backend APIs, making this a complete full-stack application.
